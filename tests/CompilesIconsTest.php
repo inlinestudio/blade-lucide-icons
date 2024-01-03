@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use Technikermathe\LucideIcons\BladeLucideIconsServiceProvider;
+use INLST\LucideIcons\BladeLucideIconsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
 use Orchestra\Testbench\TestCase;
 use Spatie\Snapshots\MatchesSnapshots;
