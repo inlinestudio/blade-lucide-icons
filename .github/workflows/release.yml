@@ -10,5 +10,5 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GHCRPAT }}
           release-type: simple
