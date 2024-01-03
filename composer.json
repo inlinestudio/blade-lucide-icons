@@ -5,11 +5,11 @@
     "keywords": ["Blade", "Heroicons", "Laravel", "LucideIcons"],
     "authors": [
         {
-            "name": "Dan Pock",
-            "role": "Original Developer"
-        },
+            "name": "Tischler Kristóf",
+            "role": "Developer"
+        }
     ],
-    "homepage": "https://github.com/technikermathe/blade-lucide-icons",
+    "homepage": "https://github.com/inlinestudio/blade-lucide-icons",
     "require": {
         "php": "~8.1.0|~8.2.0|~8.3.0",
         "blade-ui-kit/blade-icons": "^1.5",
