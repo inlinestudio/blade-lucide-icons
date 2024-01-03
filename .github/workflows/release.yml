@@ -12,3 +12,4 @@ jobs:
         with:
           token: ${{ secrets.GHCRPAT }}
           release-type: simple
+          include-v-in-tag: false
