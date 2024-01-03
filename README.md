@@ -2,6 +2,7 @@
 
 A package to easily make use of [Lucide](https://github.com/lucide-icons/lucide) Icons in your Laravel Blade views.
 
+
 For a full list of available icons see [the SVG directory](resources/svg) or preview them at [lucide.dev](https://lucide.dev/).
 
 ## Requirements
