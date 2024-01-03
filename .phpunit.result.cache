@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\CompilesIconsTest::it_compiles_a_single_anonymous_component":0.019,"Tests\\CompilesIconsTest::it_can_add_classes_to_icons":0.001,"Tests\\CompilesIconsTest::it_can_add_styles_to_icons":0}}
