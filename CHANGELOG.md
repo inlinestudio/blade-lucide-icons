@@ -1,5 +1,46 @@
 # Changelog
 
+## [1.19.0](https://github.com/inlinestudio/blade-lucide-icons/compare/v1.18.0...v1.19.0) (2024-11-16)
+
+
+### Features
+
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.396.0 ([05cf3ef](https://github.com/inlinestudio/blade-lucide-icons/commit/05cf3efa02db18b30d060bf4ffce8b8c58adaaeb))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.397.0 ([fb8a5b8](https://github.com/inlinestudio/blade-lucide-icons/commit/fb8a5b870a2073816c10c3f390bc63dedd095f85))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.399.0 ([70eb4da](https://github.com/inlinestudio/blade-lucide-icons/commit/70eb4da56a98b877accf5bcbec4b53541cde75b2))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.400.0 ([445851e](https://github.com/inlinestudio/blade-lucide-icons/commit/445851ed91c06ce776426515ed59d5ced958f9c3))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.401.0 ([8883e3c](https://github.com/inlinestudio/blade-lucide-icons/commit/8883e3c823fa050f62be0515b455a496cfa04530))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.403.0 ([5b15376](https://github.com/inlinestudio/blade-lucide-icons/commit/5b153766cfb30d3f8fd820a89016fb3cd9b01421))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.407.0 ([bf9ca6b](https://github.com/inlinestudio/blade-lucide-icons/commit/bf9ca6b69224f894ec8de750c87db6ff66e65adc))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.408.0 ([b8e8ce7](https://github.com/inlinestudio/blade-lucide-icons/commit/b8e8ce70f8927470e474028b097ef550b09fe9d3))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.411.0 ([475a209](https://github.com/inlinestudio/blade-lucide-icons/commit/475a2099835bbe0b1ec8365adbd359035d068bb8))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.412.0 ([eb9f6ee](https://github.com/inlinestudio/blade-lucide-icons/commit/eb9f6ee7b6ab8fb9c18210a22b8a3eb5476f2b48))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.414.0 ([ae60452](https://github.com/inlinestudio/blade-lucide-icons/commit/ae6045267fdf7c41787e7bfa044f55182c92e759))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.416.0 ([34d88a9](https://github.com/inlinestudio/blade-lucide-icons/commit/34d88a9094bc98d19142730b726a0606f75e68e8))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.417.0 ([8826c18](https://github.com/inlinestudio/blade-lucide-icons/commit/8826c18edbd75294566ab831599662042555e4d0))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.418.0 ([43db136](https://github.com/inlinestudio/blade-lucide-icons/commit/43db13663842b00a814f6072554adc7dfd5a3144))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.419.0 ([53f36b7](https://github.com/inlinestudio/blade-lucide-icons/commit/53f36b7461cff4643d5da3c50cb081a38f9c37c0))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.424.0 ([74d7551](https://github.com/inlinestudio/blade-lucide-icons/commit/74d7551a28a426f227ff636690ea65ea4b0fabbb))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.426.0 ([8804d34](https://github.com/inlinestudio/blade-lucide-icons/commit/8804d3449b0d4e7159aa640d4894d494aa235c85))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.427.0 ([48279d1](https://github.com/inlinestudio/blade-lucide-icons/commit/48279d1e39aed1cbca30e15861c4dbde648092bf))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.428.0 ([eac5895](https://github.com/inlinestudio/blade-lucide-icons/commit/eac58958e99b62f33e7ed92cf5b60db59b5195bc))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.429.0 ([ef496d3](https://github.com/inlinestudio/blade-lucide-icons/commit/ef496d3a38756ff152839d49528d426be7ea2afa))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.435.0 ([ac33b1b](https://github.com/inlinestudio/blade-lucide-icons/commit/ac33b1ba56a6be925ac26c80cf38ac7fc536737c))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.436.0 ([9f40be7](https://github.com/inlinestudio/blade-lucide-icons/commit/9f40be72620d2a6d0f946b27b7159d8ab1c2c02b))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.437.0 ([80d1740](https://github.com/inlinestudio/blade-lucide-icons/commit/80d174094366ed3fd87fd212a51629ced8ea31e0))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.438.0 ([e4c02dc](https://github.com/inlinestudio/blade-lucide-icons/commit/e4c02dc591f11f5576006a3ffdad5e8666ee1fd5))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.439.0 ([a6b1e48](https://github.com/inlinestudio/blade-lucide-icons/commit/a6b1e48421951e5d92fba1a8858fb41925a1562f))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.441.0 ([47e04e4](https://github.com/inlinestudio/blade-lucide-icons/commit/47e04e44f7c3bb892510de4f2833d17421477ed0))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.445.0 ([72111b1](https://github.com/inlinestudio/blade-lucide-icons/commit/72111b1eea5604f08d8e960252df9b4e448fd9a8))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.446.0 ([92ca440](https://github.com/inlinestudio/blade-lucide-icons/commit/92ca44042c199b374eb117b6e968c3725f3a2c1f))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.447.0 ([c316ff7](https://github.com/inlinestudio/blade-lucide-icons/commit/c316ff7fed5751f003857db03f3ff3f4c66f4c1e))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.451.0 ([84c33ea](https://github.com/inlinestudio/blade-lucide-icons/commit/84c33ea90cd54ad94d872d323fdc6b537f9c83d7))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.452.0 ([0bdf791](https://github.com/inlinestudio/blade-lucide-icons/commit/0bdf791c101fe3b2c70926265175110c5ecfc674))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.453.0 ([05a2895](https://github.com/inlinestudio/blade-lucide-icons/commit/05a289590781bea9283e1e711ffb082af78f4997))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.454.0 ([dcc6d6e](https://github.com/inlinestudio/blade-lucide-icons/commit/dcc6d6ea298dc6879cb0fe6cb93dd82b0d13753c))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.456.0 ([d8dea66](https://github.com/inlinestudio/blade-lucide-icons/commit/d8dea661174f6d2a38e485dd316792f7e03da760))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.460.0 ([83c1fb6](https://github.com/inlinestudio/blade-lucide-icons/commit/83c1fb61532bd8bb261a1825e0a0ba4d3c3d743d))
+
 ## [1.18.0](https://github.com/inlinestudio/blade-lucide-icons/compare/v1.17.0...v1.18.0) (2024-06-15)
 
 
