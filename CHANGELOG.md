@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.21.0](https://github.com/inlinestudio/blade-lucide-icons/compare/1.20.0...1.21.0) (2025-03-08)
+
+
+### Features
+
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.469.0 ([2d35388](https://github.com/inlinestudio/blade-lucide-icons/commit/2d3538817dd1ef726efb0880d451ea9967dbdd0b))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.471.0 ([95e9525](https://github.com/inlinestudio/blade-lucide-icons/commit/95e952501b9fb36c5759855413d184256df8574e))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.471.1 ([ac161f0](https://github.com/inlinestudio/blade-lucide-icons/commit/ac161f0b4c1cea1debe48a1993d44037b2f57cbb))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.473.0 ([b459dae](https://github.com/inlinestudio/blade-lucide-icons/commit/b459dae3925edc452878924c87aadd9e992653a2))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.474.0 ([702e9fa](https://github.com/inlinestudio/blade-lucide-icons/commit/702e9fa1f5c2399f8a234ac435a03b818063a574))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.475.0 ([3f2d9e8](https://github.com/inlinestudio/blade-lucide-icons/commit/3f2d9e8efa470497523accc7fc21fdb5910ad79e))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.476.0 ([d765631](https://github.com/inlinestudio/blade-lucide-icons/commit/d76563191bb99dbb854cfaf1c39665f9f0e2ab92))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.477.0 ([d7aff38](https://github.com/inlinestudio/blade-lucide-icons/commit/d7aff38dafd6d4211e1d6c31985e31bdf3ca2175))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.479.0 ([8e630e7](https://github.com/inlinestudio/blade-lucide-icons/commit/8e630e7eb612afccc8009053364627a079f57b38))
+
 ## [1.20.0](https://github.com/inlinestudio/blade-lucide-icons/compare/v1.19.0...1.20.0) (2024-12-06)
 
 
