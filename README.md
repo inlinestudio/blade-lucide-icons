@@ -80,3 +80,4 @@ This is a [fork of the initial work of Dan Pock](https://github.com/mallardduck/
 
 Blade LucideIcons is open-sourced software licensed under [the MIT license](LICENSE.md).
 
+
