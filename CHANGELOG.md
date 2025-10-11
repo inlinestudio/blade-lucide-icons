@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.26.0](https://github.com/inlinestudio/blade-lucide-icons/compare/1.25.1...1.26.0) (2025-10-11)
+
+
+### Features
+
+* Update composer.json ([a880c97](https://github.com/inlinestudio/blade-lucide-icons/commit/a880c9716b8b4956b47c0abe17af71777f4b80ff))
+
 ## [1.25.1](https://github.com/inlinestudio/blade-lucide-icons/compare/1.25.0...1.25.1) (2025-10-10)
 
 
