@@ -11,7 +11,7 @@
     ],
     "homepage": "https://github.com/inlinestudio/blade-lucide-icons",
     "require": {
-        "php": "~8.1.0 || ~8.2.0 || ~8.3.0",
+        "php": "^8.0",
         "blade-ui-kit/blade-icons": "^1.5",
         "illuminate/support": "^9.0 || ^10.0 || ^11.0 || ^12.0"
     },
