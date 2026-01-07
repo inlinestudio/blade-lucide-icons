@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.29.0](https://github.com/inlinestudio/blade-lucide-icons/compare/1.28.0...1.29.0) (2026-01-07)
+
+
+### Features
+
+* add enum && auto enum update script ([ae2eecd](https://github.com/inlinestudio/blade-lucide-icons/commit/ae2eecd8455f3e08fd0c31f65d23574cf1328799))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.552.0 ([50da144](https://github.com/inlinestudio/blade-lucide-icons/commit/50da1443e15b38267bd964712ee0829a8fbc5c35))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.553.0 ([0cc76ff](https://github.com/inlinestudio/blade-lucide-icons/commit/0cc76ff375a1b34cae2e747d378949b5c5f50324))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.554.0 ([ed59a05](https://github.com/inlinestudio/blade-lucide-icons/commit/ed59a05fb2c335b12519365595737344b92fe15b))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.555.0 ([c82efa1](https://github.com/inlinestudio/blade-lucide-icons/commit/c82efa13df4485121276175cf4ae68b2adc423b4))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.556.0 ([16d2799](https://github.com/inlinestudio/blade-lucide-icons/commit/16d2799d62fb388fede45bf16999cdfadb0f1ab6))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.559.0 ([c0f0104](https://github.com/inlinestudio/blade-lucide-icons/commit/c0f01048bdf07118dea3a9d474354d6b9fd463da))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.560.0 ([723935a](https://github.com/inlinestudio/blade-lucide-icons/commit/723935a97571affeb2e66f1e69a9af0cb6d3778c))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.561.0 ([4606d9b](https://github.com/inlinestudio/blade-lucide-icons/commit/4606d9b9d7e08bf1b84104e521fe2e7f7087d01d))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.562.0 ([a3762fa](https://github.com/inlinestudio/blade-lucide-icons/commit/a3762fa2242a0ebc694096c68c05473774cd37e8))
+
 ## [1.28.0](https://github.com/inlinestudio/blade-lucide-icons/compare/1.27.0...1.28.0) (2025-10-25)
 
 
