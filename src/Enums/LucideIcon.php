@@ -583,6 +583,7 @@ enum LucideIcon: string implements ScalableIcon
     case Dam = 'dam';
     case Database = 'database';
     case DatabaseBackup = 'database-backup';
+    case DatabaseSearch = 'database-search';
     case DatabaseZap = 'database-zap';
     case DecimalsArrowLeft = 'decimals-arrow-left';
     case DecimalsArrowRight = 'decimals-arrow-right';
@@ -1797,6 +1798,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserCircle2 = 'user-circle-2';
     case UserCog = 'user-cog';
     case UserCog2 = 'user-cog-2';
+    case UserKey = 'user-key';
     case UserLock = 'user-lock';
     case UserMinus = 'user-minus';
     case UserMinus2 = 'user-minus-2';
@@ -1806,6 +1808,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserRound = 'user-round';
     case UserRoundCheck = 'user-round-check';
     case UserRoundCog = 'user-round-cog';
+    case UserRoundKey = 'user-round-key';
     case UserRoundMinus = 'user-round-minus';
     case UserRoundPen = 'user-round-pen';
     case UserRoundPlus = 'user-round-plus';
