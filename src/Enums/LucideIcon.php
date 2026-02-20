@@ -1127,6 +1127,7 @@ enum LucideIcon: string implements ScalableIcon
     case MessageCircleWarning = 'message-circle-warning';
     case MessageCircleX = 'message-circle-x';
     case MessageSquare = 'message-square';
+    case MessageSquareCheck = 'message-square-check';
     case MessageSquareCode = 'message-square-code';
     case MessageSquareDashed = 'message-square-dashed';
     case MessageSquareDiff = 'message-square-diff';
@@ -1143,6 +1144,7 @@ enum LucideIcon: string implements ScalableIcon
     case MessageSquareWarning = 'message-square-warning';
     case MessageSquareX = 'message-square-x';
     case MessagesSquare = 'messages-square';
+    case Metronome = 'metronome';
     case Mic = 'mic';
     case Mic2 = 'mic-2';
     case MicOff = 'mic-off';
@@ -1584,11 +1586,15 @@ enum LucideIcon: string implements ScalableIcon
     case SquareArrowOutUpLeft = 'square-arrow-out-up-left';
     case SquareArrowOutUpRight = 'square-arrow-out-up-right';
     case SquareArrowRight = 'square-arrow-right';
+    case SquareArrowRightEnter = 'square-arrow-right-enter';
+    case SquareArrowRightExit = 'square-arrow-right-exit';
     case SquareArrowUp = 'square-arrow-up';
     case SquareArrowUpLeft = 'square-arrow-up-left';
     case SquareArrowUpRight = 'square-arrow-up-right';
     case SquareAsterisk = 'square-asterisk';
     case SquareBottomDashedScissors = 'square-bottom-dashed-scissors';
+    case SquareCenterlineDashedHorizontal = 'square-centerline-dashed-horizontal';
+    case SquareCenterlineDashedVertical = 'square-centerline-dashed-vertical';
     case SquareChartGantt = 'square-chart-gantt';
     case SquareCheck = 'square-check';
     case SquareCheckBig = 'square-check-big';
