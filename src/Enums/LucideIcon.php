@@ -759,6 +759,7 @@ enum LucideIcon: string implements ScalableIcon
     case FishOff = 'fish-off';
     case FishSymbol = 'fish-symbol';
     case FishingHook = 'fishing-hook';
+    case FishingRod = 'fishing-rod';
     case Flag = 'flag';
     case FlagOff = 'flag-off';
     case FlagTriangleLeft = 'flag-triangle-left';
@@ -1915,6 +1916,19 @@ enum LucideIcon: string implements ScalableIcon
     case Youtube = 'youtube';
     case Zap = 'zap';
     case ZapOff = 'zap-off';
+    case ZodiacAquarius = 'zodiac-aquarius';
+    case ZodiacAries = 'zodiac-aries';
+    case ZodiacCancer = 'zodiac-cancer';
+    case ZodiacCapricorn = 'zodiac-capricorn';
+    case ZodiacGemini = 'zodiac-gemini';
+    case ZodiacLeo = 'zodiac-leo';
+    case ZodiacLibra = 'zodiac-libra';
+    case ZodiacOphiuchus = 'zodiac-ophiuchus';
+    case ZodiacPisces = 'zodiac-pisces';
+    case ZodiacSagittarius = 'zodiac-sagittarius';
+    case ZodiacScorpio = 'zodiac-scorpio';
+    case ZodiacTaurus = 'zodiac-taurus';
+    case ZodiacVirgo = 'zodiac-virgo';
     case ZoomIn = 'zoom-in';
     case ZoomOut = 'zoom-out';
 
