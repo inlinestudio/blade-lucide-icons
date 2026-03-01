@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.31.0](https://github.com/inlinestudio/blade-lucide-icons/compare/1.30.0...1.31.0) (2026-03-01)
+
+
+### Features
+
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.574.0 ([04fe02e](https://github.com/inlinestudio/blade-lucide-icons/commit/04fe02e00da487454fd1b6c620dd3f5d9d445d1e))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.575.0 ([84608c5](https://github.com/inlinestudio/blade-lucide-icons/commit/84608c5efd005e06da3327d0e4f482af200efcf1))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.576.0 ([db4f8fc](https://github.com/inlinestudio/blade-lucide-icons/commit/db4f8fcf6667a9daa6c17f414099e601d595b96a))
+
 ## [1.30.0](https://github.com/inlinestudio/blade-lucide-icons/compare/1.29.0...1.30.0) (2026-02-14)
 
 
