@@ -644,6 +644,7 @@ enum LucideIcon: string implements ScalableIcon
     case Egg = 'egg';
     case EggFried = 'egg-fried';
     case EggOff = 'egg-off';
+    case Ellipse = 'ellipse';
     case Ellipsis = 'ellipsis';
     case EllipsisVertical = 'ellipsis-vertical';
     case Equal = 'equal';
