@@ -348,6 +348,7 @@ enum LucideIcon: string implements ScalableIcon
     case Castle = 'castle';
     case Cat = 'cat';
     case Cctv = 'cctv';
+    case CctvOff = 'cctv-off';
     case ChartArea = 'chart-area';
     case ChartBar = 'chart-bar';
     case ChartBarBig = 'chart-bar-big';
