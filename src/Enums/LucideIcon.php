@@ -199,6 +199,7 @@ enum LucideIcon: string implements ScalableIcon
     case BedDouble = 'bed-double';
     case BedSingle = 'bed-single';
     case Beef = 'beef';
+    case BeefOff = 'beef-off';
     case Beer = 'beer';
     case BeerOff = 'beer-off';
     case Bell = 'bell';
@@ -1031,6 +1032,7 @@ enum LucideIcon: string implements ScalableIcon
     case LineChart = 'line-chart';
     case LineDotRightHorizontal = 'line-dot-right-horizontal';
     case LineSquiggle = 'line-squiggle';
+    case LineStyle = 'line-style';
     case Link = 'link';
     case Link2 = 'link-2';
     case Link2Off = 'link-2-off';
@@ -1376,6 +1378,7 @@ enum LucideIcon: string implements ScalableIcon
     case Radiation = 'radiation';
     case Radical = 'radical';
     case Radio = 'radio';
+    case RadioOff = 'radio-off';
     case RadioReceiver = 'radio-receiver';
     case RadioTower = 'radio-tower';
     case Radius = 'radius';
@@ -1418,6 +1421,7 @@ enum LucideIcon: string implements ScalableIcon
     case ReplyAll = 'reply-all';
     case Rewind = 'rewind';
     case Ribbon = 'ribbon';
+    case Road = 'road';
     case Rocket = 'rocket';
     case RockingChair = 'rocking-chair';
     case RollerCoaster = 'roller-coaster';
@@ -1502,6 +1506,8 @@ enum LucideIcon: string implements ScalableIcon
     case ShieldBan = 'shield-ban';
     case ShieldCheck = 'shield-check';
     case ShieldClose = 'shield-close';
+    case ShieldCog = 'shield-cog';
+    case ShieldCogCorner = 'shield-cog-corner';
     case ShieldEllipsis = 'shield-ellipsis';
     case ShieldHalf = 'shield-half';
     case ShieldMinus = 'shield-minus';
@@ -1575,6 +1581,7 @@ enum LucideIcon: string implements ScalableIcon
     case SplitSquareHorizontal = 'split-square-horizontal';
     case SplitSquareVertical = 'split-square-vertical';
     case Spool = 'spool';
+    case SportShoe = 'sport-shoe';
     case Spotlight = 'spotlight';
     case SprayCan = 'spray-can';
     case Sprout = 'sprout';
