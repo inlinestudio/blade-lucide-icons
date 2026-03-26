@@ -1101,6 +1101,7 @@ enum LucideIcon: string implements ScalableIcon
     case MapPinPen = 'map-pin-pen';
     case MapPinPlus = 'map-pin-plus';
     case MapPinPlusInside = 'map-pin-plus-inside';
+    case MapPinSearch = 'map-pin-search';
     case MapPinX = 'map-pin-x';
     case MapPinXInside = 'map-pin-x-inside';
     case MapPinned = 'map-pinned';
