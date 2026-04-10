@@ -264,6 +264,7 @@ enum LucideIcon: string implements ScalableIcon
     case Bookmark = 'bookmark';
     case BookmarkCheck = 'bookmark-check';
     case BookmarkMinus = 'bookmark-minus';
+    case BookmarkOff = 'bookmark-off';
     case BookmarkPlus = 'bookmark-plus';
     case BookmarkX = 'bookmark-x';
     case BoomBox = 'boom-box';
@@ -1619,6 +1620,7 @@ enum LucideIcon: string implements ScalableIcon
     case SquareDashedBottomCode = 'square-dashed-bottom-code';
     case SquareDashedKanban = 'square-dashed-kanban';
     case SquareDashedMousePointer = 'square-dashed-mouse-pointer';
+    case SquareDashedText = 'square-dashed-text';
     case SquareDashedTopSolid = 'square-dashed-top-solid';
     case SquareDivide = 'square-divide';
     case SquareDot = 'square-dot';
