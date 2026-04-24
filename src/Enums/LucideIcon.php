@@ -1752,6 +1752,7 @@ enum LucideIcon: string implements ScalableIcon
     case TicketX = 'ticket-x';
     case Tickets = 'tickets';
     case TicketsPlane = 'tickets-plane';
+    case Timeline = 'timeline';
     case Timer = 'timer';
     case TimerOff = 'timer-off';
     case TimerReset = 'timer-reset';
