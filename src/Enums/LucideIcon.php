@@ -203,6 +203,7 @@ enum LucideIcon: string implements ScalableIcon
     case Beer = 'beer';
     case BeerOff = 'beer-off';
     case Bell = 'bell';
+    case BellCheck = 'bell-check';
     case BellDot = 'bell-dot';
     case BellElectric = 'bell-electric';
     case BellMinus = 'bell-minus';
@@ -931,6 +932,7 @@ enum LucideIcon: string implements ScalableIcon
     case HeartOff = 'heart-off';
     case HeartPlus = 'heart-plus';
     case HeartPulse = 'heart-pulse';
+    case HeartX = 'heart-x';
     case Heater = 'heater';
     case Helicopter = 'helicopter';
     case HelpCircle = 'help-circle';
@@ -1009,6 +1011,7 @@ enum LucideIcon: string implements ScalableIcon
     case Layers = 'layers';
     case Layers2 = 'layers-2';
     case Layers3 = 'layers-3';
+    case LayersMinus = 'layers-minus';
     case LayersPlus = 'layers-plus';
     case Layout = 'layout';
     case LayoutDashboard = 'layout-dashboard';
