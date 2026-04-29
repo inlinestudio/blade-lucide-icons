@@ -137,6 +137,7 @@ enum LucideIcon: string implements ScalableIcon
     case ArrowsUpFromLine = 'arrows-up-from-line';
     case Asterisk = 'asterisk';
     case AsteriskSquare = 'asterisk-square';
+    case Astroid = 'astroid';
     case AtSign = 'at-sign';
     case Atom = 'atom';
     case AudioLines = 'audio-lines';
@@ -787,6 +788,7 @@ enum LucideIcon: string implements ScalableIcon
     case FoldVertical = 'fold-vertical';
     case Folder = 'folder';
     case FolderArchive = 'folder-archive';
+    case FolderBookmark = 'folder-bookmark';
     case FolderCheck = 'folder-check';
     case FolderClock = 'folder-clock';
     case FolderClosed = 'folder-closed';
