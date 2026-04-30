@@ -1422,6 +1422,7 @@ enum LucideIcon: string implements ScalableIcon
     case Repeat = 'repeat';
     case Repeat1 = 'repeat-1';
     case Repeat2 = 'repeat-2';
+    case RepeatOff = 'repeat-off';
     case Replace = 'replace';
     case ReplaceAll = 'replace-all';
     case Reply = 'reply';
@@ -1900,7 +1901,9 @@ enum LucideIcon: string implements ScalableIcon
     case Waves = 'waves';
     case WavesArrowDown = 'waves-arrow-down';
     case WavesArrowUp = 'waves-arrow-up';
+    case WavesHorizontal = 'waves-horizontal';
     case WavesLadder = 'waves-ladder';
+    case WavesVertical = 'waves-vertical';
     case Waypoints = 'waypoints';
     case Webcam = 'webcam';
     case Webhook = 'webhook';
