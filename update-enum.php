@@ -47,4 +47,5 @@ enum LucideIcon: string implements ScalableIcon
 
 file_put_contents($enumFile, $enumContent);
 
+
 echo 'LucideIcon enum generated with ' . count($enumCases) . " icons from local vendor directory.\n";
