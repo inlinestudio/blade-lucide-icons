@@ -226,6 +226,7 @@ enum LucideIcon: string implements ScalableIcon
     case Birdhouse = 'birdhouse';
     case Bitcoin = 'bitcoin';
     case Blend = 'blend';
+    case Blender = 'blender';
     case Blinds = 'blinds';
     case Blocks = 'blocks';
     case Bluetooth = 'bluetooth';
@@ -291,6 +292,7 @@ enum LucideIcon: string implements ScalableIcon
     case BriefcaseConveyorBelt = 'briefcase-conveyor-belt';
     case BriefcaseMedical = 'briefcase-medical';
     case BringToFront = 'bring-to-front';
+    case Broccoli = 'broccoli';
     case Brush = 'brush';
     case BrushCleaning = 'brush-cleaning';
     case Bubbles = 'bubbles';
@@ -1680,6 +1682,12 @@ enum LucideIcon: string implements ScalableIcon
     case Stethoscope = 'stethoscope';
     case Sticker = 'sticker';
     case StickyNote = 'sticky-note';
+    case StickyNoteCheck = 'sticky-note-check';
+    case StickyNoteMinus = 'sticky-note-minus';
+    case StickyNoteOff = 'sticky-note-off';
+    case StickyNotePlus = 'sticky-note-plus';
+    case StickyNoteX = 'sticky-note-x';
+    case StickyNotes = 'sticky-notes';
     case Stone = 'stone';
     case StopCircle = 'stop-circle';
     case Store = 'store';
