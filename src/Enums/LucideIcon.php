@@ -877,6 +877,7 @@ enum LucideIcon: string implements ScalableIcon
     case Glasses = 'glasses';
     case Globe = 'globe';
     case Globe2 = 'globe-2';
+    case GlobeCheck = 'globe-check';
     case GlobeLock = 'globe-lock';
     case GlobeOff = 'globe-off';
     case GlobeX = 'globe-x';
@@ -1294,6 +1295,7 @@ enum LucideIcon: string implements ScalableIcon
     case PanelsRightBottom = 'panels-right-bottom';
     case PanelsTopLeft = 'panels-top-left';
     case Paperclip = 'paperclip';
+    case Parasol = 'parasol';
     case Parentheses = 'parentheses';
     case ParkingCircle = 'parking-circle';
     case ParkingCircleOff = 'parking-circle-off';
