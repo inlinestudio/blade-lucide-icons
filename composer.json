@@ -1,11 +1,12 @@
 {
     "name": "inlst/blade-lucide-icons",
-    "description": "A package to easily make use of Lucide icons in your Laravel Blade views.",
+    "description": "A package to easily make use of Lucide icons in Filament.",
     "license": "MIT",
-    "keywords": ["Blade", "Heroicons", "Laravel", "LucideIcons"],
+    "keywords": ["Laravel", "LucideIcons", "Filament"],
     "authors": [
         {
-            "name": "Tischler Kristóf",
+            "name": "InlineStudio",
+            "email": "support@inlinestudio.hu",
             "role": "Developer"
         }
     ],
