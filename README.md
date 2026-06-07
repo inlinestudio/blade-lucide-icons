@@ -1,4 +1,4 @@
-# Blade Lucide Icons
+# Filament Lucide Icons
 
 A package to easily make use of [Lucide](https://github.com/lucide-icons/lucide) Icons in your Laravel Blade views.
 
@@ -34,6 +34,16 @@ Icons can be used as self-closing Blade components which will be compiled to SVG
 
 ```blade
 <x-lucide-activity />
+```
+
+or in Filament
+```php
+protected static string|BackedEnum|null $navigationIcon = LucideIcon::Briefcase;
+
+Action::make('visit_website')
+    ->hiddenLabel(true)
+    ->url("https://exmaple.com", shouldOpenInNewTab: true)
+    ->icon(LucideIcon::ExternalLink)
 ```
 
 You can also pass classes to your icon components:
