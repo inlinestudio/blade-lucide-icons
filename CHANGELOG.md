@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.35.1](https://github.com/inlinestudio/blade-lucide-icons/compare/v1.35.0...v1.35.1) (2026-06-07)
+
+
+### Bug Fixes
+
+* readme ([adb925e](https://github.com/inlinestudio/blade-lucide-icons/commit/adb925e2552d95290bbb427ef1ce7b7c95e9c533))
+
 ## [1.35.0](https://github.com/inlinestudio/blade-lucide-icons/compare/v1.34.0...v1.35.0) (2026-05-29)
 
 
