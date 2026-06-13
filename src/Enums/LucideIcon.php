@@ -1354,6 +1354,7 @@ enum LucideIcon: string implements ScalableIcon
     case PlaneTakeoff = 'plane-takeoff';
     case Play = 'play';
     case PlayCircle = 'play-circle';
+    case PlayOff = 'play-off';
     case PlaySquare = 'play-square';
     case Plug = 'plug';
     case Plug2 = 'plug-2';
@@ -1916,6 +1917,7 @@ enum LucideIcon: string implements ScalableIcon
     case WavesVertical = 'waves-vertical';
     case Waypoints = 'waypoints';
     case Webcam = 'webcam';
+    case WebcamOff = 'webcam-off';
     case Webhook = 'webhook';
     case WebhookOff = 'webhook-off';
     case Weight = 'weight';
