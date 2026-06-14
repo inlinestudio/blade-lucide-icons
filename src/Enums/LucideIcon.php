@@ -13,6 +13,7 @@ enum LucideIcon: string implements ScalableIcon
     case Accessibility = 'accessibility';
     case Activity = 'activity';
     case ActivitySquare = 'activity-square';
+    case Ad = 'ad';
     case AirVent = 'air-vent';
     case Airplay = 'airplay';
     case AlarmCheck = 'alarm-check';
@@ -666,6 +667,7 @@ enum LucideIcon: string implements ScalableIcon
     case ExternalLink = 'external-link';
     case Eye = 'eye';
     case EyeClosed = 'eye-closed';
+    case EyeDashed = 'eye-dashed';
     case EyeOff = 'eye-off';
     case Facebook = 'facebook';
     case Factory = 'factory';
@@ -1062,6 +1064,8 @@ enum LucideIcon: string implements ScalableIcon
     case ListOrdered = 'list-ordered';
     case ListPlus = 'list-plus';
     case ListRestart = 'list-restart';
+    case ListSortAscending = 'list-sort-ascending';
+    case ListSortDescending = 'list-sort-descending';
     case ListStart = 'list-start';
     case ListTodo = 'list-todo';
     case ListTree = 'list-tree';
@@ -1366,6 +1370,7 @@ enum LucideIcon: string implements ScalableIcon
     case Pocket = 'pocket';
     case PocketKnife = 'pocket-knife';
     case Podcast = 'podcast';
+    case Podium = 'podium';
     case Pointer = 'pointer';
     case PointerOff = 'pointer-off';
     case Popcorn = 'popcorn';
@@ -1465,6 +1470,8 @@ enum LucideIcon: string implements ScalableIcon
     case Save = 'save';
     case SaveAll = 'save-all';
     case SaveOff = 'save-off';
+    case SavePen = 'save-pen';
+    case SavePlus = 'save-plus';
     case Scale = 'scale';
     case Scale3d = 'scale-3d';
     case Scaling = 'scaling';
@@ -1678,8 +1685,12 @@ enum LucideIcon: string implements ScalableIcon
     case Squirrel = 'squirrel';
     case Stamp = 'stamp';
     case Star = 'star';
+    case StarCheck = 'star-check';
     case StarHalf = 'star-half';
+    case StarMinus = 'star-minus';
     case StarOff = 'star-off';
+    case StarPlus = 'star-plus';
+    case StarX = 'star-x';
     case StepBack = 'step-back';
     case StepForward = 'step-forward';
     case Stethoscope = 'stethoscope';
@@ -1941,6 +1952,7 @@ enum LucideIcon: string implements ScalableIcon
     case Worm = 'worm';
     case WrapText = 'wrap-text';
     case Wrench = 'wrench';
+    case WrenchOff = 'wrench-off';
     case X = 'x';
     case XCircle = 'x-circle';
     case XLineTop = 'x-line-top';
