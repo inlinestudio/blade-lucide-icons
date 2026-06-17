@@ -175,6 +175,7 @@ enum LucideIcon: string implements ScalableIcon
     case Banknote = 'banknote';
     case BanknoteArrowDown = 'banknote-arrow-down';
     case BanknoteArrowUp = 'banknote-arrow-up';
+    case BanknoteCheck = 'banknote-check';
     case BanknoteX = 'banknote-x';
     case BarChart = 'bar-chart';
     case BarChart2 = 'bar-chart-2';
@@ -502,6 +503,8 @@ enum LucideIcon: string implements ScalableIcon
     case Clock9 = 'clock-9';
     case ClockAlert = 'clock-alert';
     case ClockArrowDown = 'clock-arrow-down';
+    case ClockArrowLeft = 'clock-arrow-left';
+    case ClockArrowRight = 'clock-arrow-right';
     case ClockArrowUp = 'clock-arrow-up';
     case ClockCheck = 'clock-check';
     case ClockFading = 'clock-fading';
@@ -1321,6 +1324,7 @@ enum LucideIcon: string implements ScalableIcon
     case PencilLine = 'pencil-line';
     case PencilOff = 'pencil-off';
     case PencilRuler = 'pencil-ruler';
+    case PencilSparkles = 'pencil-sparkles';
     case Pentagon = 'pentagon';
     case Percent = 'percent';
     case PercentCircle = 'percent-circle';
@@ -1469,6 +1473,7 @@ enum LucideIcon: string implements ScalableIcon
     case SaudiRiyal = 'saudi-riyal';
     case Save = 'save';
     case SaveAll = 'save-all';
+    case SaveCheck = 'save-check';
     case SaveOff = 'save-off';
     case SavePen = 'save-pen';
     case SavePlus = 'save-plus';
@@ -1710,6 +1715,7 @@ enum LucideIcon: string implements ScalableIcon
     case Strikethrough = 'strikethrough';
     case Subscript = 'subscript';
     case Subtitles = 'subtitles';
+    case Summary = 'summary';
     case Sun = 'sun';
     case SunDim = 'sun-dim';
     case SunMedium = 'sun-medium';
@@ -1736,6 +1742,8 @@ enum LucideIcon: string implements ScalableIcon
     case TabletSmartphone = 'tablet-smartphone';
     case Tablets = 'tablets';
     case Tag = 'tag';
+    case TagPlus = 'tag-plus';
+    case TagX = 'tag-x';
     case Tags = 'tags';
     case Tally1 = 'tally-1';
     case Tally2 = 'tally-2';
@@ -1866,6 +1874,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserPlus = 'user-plus';
     case UserPlus2 = 'user-plus-2';
     case UserRound = 'user-round';
+    case UserRoundArrowLeft = 'user-round-arrow-left';
     case UserRoundCheck = 'user-round-check';
     case UserRoundCog = 'user-round-cog';
     case UserRoundKey = 'user-round-key';
