@@ -239,6 +239,7 @@ enum LucideIcon: string implements ScalableIcon
     case Bolt = 'bolt';
     case Bomb = 'bomb';
     case Bone = 'bone';
+    case BoneFracture = 'bone-fracture';
     case Book = 'book';
     case BookA = 'book-a';
     case BookAlert = 'book-alert';
