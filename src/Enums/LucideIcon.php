@@ -594,8 +594,14 @@ enum LucideIcon: string implements ScalableIcon
     case Cylinder = 'cylinder';
     case Dam = 'dam';
     case Database = 'database';
+    case DatabaseArrowDown = 'database-arrow-down';
+    case DatabaseArrowUp = 'database-arrow-up';
     case DatabaseBackup = 'database-backup';
+    case DatabaseCheck = 'database-check';
+    case DatabaseMinus = 'database-minus';
+    case DatabasePlus = 'database-plus';
     case DatabaseSearch = 'database-search';
+    case DatabaseX = 'database-x';
     case DatabaseZap = 'database-zap';
     case DecimalsArrowLeft = 'decimals-arrow-left';
     case DecimalsArrowRight = 'decimals-arrow-right';
@@ -1332,6 +1338,7 @@ enum LucideIcon: string implements ScalableIcon
     case PercentDiamond = 'percent-diamond';
     case PercentSquare = 'percent-square';
     case PersonStanding = 'person-standing';
+    case Phi = 'phi';
     case PhilippinePeso = 'philippine-peso';
     case Phone = 'phone';
     case PhoneCall = 'phone-call';
