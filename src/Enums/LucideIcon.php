@@ -1308,6 +1308,7 @@ enum LucideIcon: string implements ScalableIcon
     case PanelsLeftBottom = 'panels-left-bottom';
     case PanelsRightBottom = 'panels-right-bottom';
     case PanelsTopLeft = 'panels-top-left';
+    case PaperBag = 'paper-bag';
     case Paperclip = 'paperclip';
     case Parasol = 'parasol';
     case Parentheses = 'parentheses';
