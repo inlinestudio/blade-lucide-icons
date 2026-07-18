@@ -447,6 +447,7 @@ enum LucideIcon: string implements ScalableIcon
     case CircleDotDashed = 'circle-dot-dashed';
     case CircleEllipsis = 'circle-ellipsis';
     case CircleEqual = 'circle-equal';
+    case CircleEuro = 'circle-euro';
     case CircleEuroSign = 'circle-euro-sign';
     case CircleFadingArrowUp = 'circle-fading-arrow-up';
     case CircleFadingPlus = 'circle-fading-plus';
@@ -1492,6 +1493,7 @@ enum LucideIcon: string implements ScalableIcon
     case Scaling = 'scaling';
     case Scan = 'scan';
     case ScanBarcode = 'scan-barcode';
+    case ScanBox = 'scan-box';
     case ScanEye = 'scan-eye';
     case ScanFace = 'scan-face';
     case ScanHeart = 'scan-heart';
