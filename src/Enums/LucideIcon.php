@@ -1548,6 +1548,7 @@ enum LucideIcon: string implements ScalableIcon
     case ShieldCogCorner = 'shield-cog-corner';
     case ShieldEllipsis = 'shield-ellipsis';
     case ShieldHalf = 'shield-half';
+    case ShieldKeyhole = 'shield-keyhole';
     case ShieldMinus = 'shield-minus';
     case ShieldOff = 'shield-off';
     case ShieldPlus = 'shield-plus';
