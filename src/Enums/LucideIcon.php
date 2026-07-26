@@ -1034,6 +1034,7 @@ enum LucideIcon: string implements ScalableIcon
     case LayersPlus = 'layers-plus';
     case Layout = 'layout';
     case LayoutDashboard = 'layout-dashboard';
+    case LayoutFreeform = 'layout-freeform';
     case LayoutGrid = 'layout-grid';
     case LayoutList = 'layout-list';
     case LayoutPanelLeft = 'layout-panel-left';
@@ -1178,7 +1179,9 @@ enum LucideIcon: string implements ScalableIcon
     case Metronome = 'metronome';
     case Mic = 'mic';
     case Mic2 = 'mic-2';
+    case MicAudioLines = 'mic-audio-lines';
     case MicOff = 'mic-off';
+    case MicSignal = 'mic-signal';
     case MicVocal = 'mic-vocal';
     case Microchip = 'microchip';
     case Microscope = 'microscope';
@@ -1211,6 +1214,7 @@ enum LucideIcon: string implements ScalableIcon
     case MoonStar = 'moon-star';
     case MoreHorizontal = 'more-horizontal';
     case MoreVertical = 'more-vertical';
+    case Mosque = 'mosque';
     case Motorbike = 'motorbike';
     case Mountain = 'mountain';
     case MountainSnow = 'mountain-snow';
@@ -1461,9 +1465,11 @@ enum LucideIcon: string implements ScalableIcon
     case Rose = 'rose';
     case Rotate3d = 'rotate-3d';
     case RotateCcw = 'rotate-ccw';
+    case RotateCcwClock = 'rotate-ccw-clock';
     case RotateCcwKey = 'rotate-ccw-key';
     case RotateCcwSquare = 'rotate-ccw-square';
     case RotateCw = 'rotate-cw';
+    case RotateCwFadingClock = 'rotate-cw-fading-clock';
     case RotateCwSquare = 'rotate-cw-square';
     case Route = 'route';
     case RouteOff = 'route-off';
@@ -1500,6 +1506,7 @@ enum LucideIcon: string implements ScalableIcon
     case ScanLine = 'scan-line';
     case ScanQrCode = 'scan-qr-code';
     case ScanSearch = 'scan-search';
+    case ScanSquare = 'scan-square';
     case ScanText = 'scan-text';
     case ScatterChart = 'scatter-chart';
     case School = 'school';
@@ -1670,6 +1677,7 @@ enum LucideIcon: string implements ScalableIcon
     case SquareMenu = 'square-menu';
     case SquareMinus = 'square-minus';
     case SquareMousePointer = 'square-mouse-pointer';
+    case SquareOff = 'square-off';
     case SquareParking = 'square-parking';
     case SquareParkingOff = 'square-parking-off';
     case SquarePause = 'square-pause';
@@ -1898,6 +1906,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserRoundSearch = 'user-round-search';
     case UserRoundX = 'user-round-x';
     case UserSearch = 'user-search';
+    case UserShield = 'user-shield';
     case UserSquare = 'user-square';
     case UserSquare2 = 'user-square-2';
     case UserStar = 'user-star';
