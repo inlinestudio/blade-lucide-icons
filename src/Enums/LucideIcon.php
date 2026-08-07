@@ -1027,9 +1027,13 @@ enum LucideIcon: string implements ScalableIcon
     case Lasso = 'lasso';
     case LassoSelect = 'lasso-select';
     case Laugh = 'laugh';
+    case LayerArrowDown = 'layer-arrow-down';
+    case LayerArrowUp = 'layer-arrow-up';
     case Layers = 'layers';
     case Layers2 = 'layers-2';
     case Layers3 = 'layers-3';
+    case LayersArrowDown = 'layers-arrow-down';
+    case LayersArrowUp = 'layers-arrow-up';
     case LayersMinus = 'layers-minus';
     case LayersPlus = 'layers-plus';
     case Layout = 'layout';
