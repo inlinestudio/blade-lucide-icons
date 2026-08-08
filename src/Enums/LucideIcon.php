@@ -142,6 +142,7 @@ enum LucideIcon: string implements ScalableIcon
     case AtSign = 'at-sign';
     case Atom = 'atom';
     case AudioLines = 'audio-lines';
+    case AudioLinesX = 'audio-lines-x';
     case AudioWaveform = 'audio-waveform';
     case Award = 'award';
     case Axe = 'axe';
@@ -296,6 +297,8 @@ enum LucideIcon: string implements ScalableIcon
     case BriefcaseMedical = 'briefcase-medical';
     case BringToFront = 'bring-to-front';
     case Broccoli = 'broccoli';
+    case Broom = 'broom';
+    case BroomSparkles = 'broom-sparkles';
     case Brush = 'brush';
     case BrushCleaning = 'brush-cleaning';
     case Bubbles = 'bubbles';
@@ -681,6 +684,13 @@ enum LucideIcon: string implements ScalableIcon
     case EyeClosed = 'eye-closed';
     case EyeDashed = 'eye-dashed';
     case EyeOff = 'eye-off';
+    case FaceAngry = 'face-angry';
+    case FaceExpressionless = 'face-expressionless';
+    case FaceGrinning = 'face-grinning';
+    case FaceNeutral = 'face-neutral';
+    case FaceSlightlyFrowning = 'face-slightly-frowning';
+    case FaceSlightlySmiling = 'face-slightly-smiling';
+    case FaceSlightlySmilingPlus = 'face-slightly-smiling-plus';
     case Facebook = 'facebook';
     case Factory = 'factory';
     case Fan = 'fan';
@@ -1560,6 +1570,7 @@ enum LucideIcon: string implements ScalableIcon
     case ShieldEllipsis = 'shield-ellipsis';
     case ShieldHalf = 'shield-half';
     case ShieldKeyhole = 'shield-keyhole';
+    case ShieldLock = 'shield-lock';
     case ShieldMinus = 'shield-minus';
     case ShieldOff = 'shield-off';
     case ShieldPlus = 'shield-plus';
