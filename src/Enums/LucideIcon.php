@@ -60,6 +60,7 @@ enum LucideIcon: string implements ScalableIcon
     case Ampersands = 'ampersands';
     case Amphora = 'amphora';
     case Anchor = 'anchor';
+    case Angle = 'angle';
     case Angry = 'angry';
     case Annoyed = 'annoyed';
     case Antenna = 'antenna';
@@ -667,6 +668,7 @@ enum LucideIcon: string implements ScalableIcon
     case Egg = 'egg';
     case EggFried = 'egg-fried';
     case EggOff = 'egg-off';
+    case Eject = 'eject';
     case Ellipse = 'ellipse';
     case Ellipsis = 'ellipsis';
     case EllipsisVertical = 'ellipsis-vertical';
@@ -1118,6 +1120,7 @@ enum LucideIcon: string implements ScalableIcon
     case MSquare = 'm-square';
     case Magnet = 'magnet';
     case Mail = 'mail';
+    case MailBadge = 'mail-badge';
     case MailCheck = 'mail-check';
     case MailMinus = 'mail-minus';
     case MailOpen = 'mail-open';
