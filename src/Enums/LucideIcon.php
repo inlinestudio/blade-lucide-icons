@@ -348,6 +348,7 @@ enum LucideIcon: string implements ScalableIcon
     case Captions = 'captions';
     case CaptionsOff = 'captions-off';
     case Car = 'car';
+    case CarBattery = 'car-battery';
     case CarFront = 'car-front';
     case CarTaxiFront = 'car-taxi-front';
     case Caravan = 'caravan';
@@ -1718,6 +1719,7 @@ enum LucideIcon: string implements ScalableIcon
     case SquareStar = 'square-star';
     case SquareStop = 'square-stop';
     case SquareTerminal = 'square-terminal';
+    case SquareText = 'square-text';
     case SquareUser = 'square-user';
     case SquareUserRound = 'square-user-round';
     case SquareX = 'square-x';
