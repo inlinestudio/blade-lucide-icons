@@ -143,6 +143,7 @@ enum LucideIcon: string implements ScalableIcon
     case AtSign = 'at-sign';
     case Atom = 'atom';
     case AudioLines = 'audio-lines';
+    case AudioLinesOff = 'audio-lines-off';
     case AudioLinesX = 'audio-lines-x';
     case AudioWaveform = 'audio-waveform';
     case Award = 'award';
@@ -1083,6 +1084,7 @@ enum LucideIcon: string implements ScalableIcon
     case ListChecks = 'list-checks';
     case ListChevronsDownUp = 'list-chevrons-down-up';
     case ListChevronsUpDown = 'list-chevrons-up-down';
+    case ListClock = 'list-clock';
     case ListCollapse = 'list-collapse';
     case ListEnd = 'list-end';
     case ListFilter = 'list-filter';
@@ -1204,6 +1206,7 @@ enum LucideIcon: string implements ScalableIcon
     case Microchip = 'microchip';
     case Microscope = 'microscope';
     case Microwave = 'microwave';
+    case MidiPort = 'midi-port';
     case Milestone = 'milestone';
     case Milk = 'milk';
     case MilkOff = 'milk-off';
@@ -1230,6 +1233,8 @@ enum LucideIcon: string implements ScalableIcon
     case MonitorX = 'monitor-x';
     case Moon = 'moon';
     case MoonStar = 'moon-star';
+    case Mop = 'mop';
+    case MopSparkles = 'mop-sparkles';
     case MoreHorizontal = 'more-horizontal';
     case MoreVertical = 'more-vertical';
     case Mosque = 'mosque';
@@ -1685,6 +1690,7 @@ enum LucideIcon: string implements ScalableIcon
     case SquareDashedMousePointer = 'square-dashed-mouse-pointer';
     case SquareDashedText = 'square-dashed-text';
     case SquareDashedTopSolid = 'square-dashed-top-solid';
+    case SquareDimensions = 'square-dimensions';
     case SquareDivide = 'square-divide';
     case SquareDot = 'square-dot';
     case SquareEqual = 'square-equal';
@@ -1900,6 +1906,7 @@ enum LucideIcon: string implements ScalableIcon
     case Upload = 'upload';
     case UploadCloud = 'upload-cloud';
     case Usb = 'usb';
+    case UsbCPort = 'usb-c-port';
     case User = 'user';
     case User2 = 'user-2';
     case UserCheck = 'user-check';
