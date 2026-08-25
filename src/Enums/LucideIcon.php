@@ -1125,6 +1125,7 @@ enum LucideIcon: string implements ScalableIcon
     case Mail = 'mail';
     case MailBadge = 'mail-badge';
     case MailCheck = 'mail-check';
+    case MailClock = 'mail-clock';
     case MailMinus = 'mail-minus';
     case MailOpen = 'mail-open';
     case MailPlus = 'mail-plus';
