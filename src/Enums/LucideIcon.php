@@ -864,6 +864,7 @@ enum LucideIcon: string implements ScalableIcon
     case Funnel = 'funnel';
     case FunnelPlus = 'funnel-plus';
     case FunnelX = 'funnel-x';
+    case Galaxy = 'galaxy';
     case GalleryHorizontal = 'gallery-horizontal';
     case GalleryHorizontalEnd = 'gallery-horizontal-end';
     case GalleryThumbnails = 'gallery-thumbnails';
@@ -1483,6 +1484,7 @@ enum LucideIcon: string implements ScalableIcon
     case Rewind = 'rewind';
     case Ribbon = 'ribbon';
     case Road = 'road';
+    case RobotArm = 'robot-arm';
     case Rocket = 'rocket';
     case RockingChair = 'rocking-chair';
     case RollerCoaster = 'roller-coaster';
@@ -1589,6 +1591,7 @@ enum LucideIcon: string implements ScalableIcon
     case ShieldUser = 'shield-user';
     case ShieldX = 'shield-x';
     case Ship = 'ship';
+    case ShipCargo = 'ship-cargo';
     case ShipWheel = 'ship-wheel';
     case Shirt = 'shirt';
     case ShoppingBag = 'shopping-bag';
@@ -1855,6 +1858,7 @@ enum LucideIcon: string implements ScalableIcon
     case ToyBrick = 'toy-brick';
     case Tractor = 'tractor';
     case TrafficCone = 'traffic-cone';
+    case Trailer = 'trailer';
     case Train = 'train';
     case TrainFront = 'train-front';
     case TrainFrontTunnel = 'train-front-tunnel';
