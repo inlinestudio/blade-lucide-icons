@@ -590,6 +590,10 @@ enum LucideIcon: string implements ScalableIcon
     case Cpu = 'cpu';
     case CreativeCommons = 'creative-commons';
     case CreditCard = 'credit-card';
+    case CreditCardCheck = 'credit-card-check';
+    case CreditCardMinus = 'credit-card-minus';
+    case CreditCardPlus = 'credit-card-plus';
+    case CreditCardX = 'credit-card-x';
     case Croissant = 'croissant';
     case Crop = 'crop';
     case Cross = 'cross';
@@ -1171,6 +1175,7 @@ enum LucideIcon: string implements ScalableIcon
     case MessageCircleCheck = 'message-circle-check';
     case MessageCircleCode = 'message-circle-code';
     case MessageCircleDashed = 'message-circle-dashed';
+    case MessageCircleDashedCheck = 'message-circle-dashed-check';
     case MessageCircleHeart = 'message-circle-heart';
     case MessageCircleMore = 'message-circle-more';
     case MessageCircleOff = 'message-circle-off';
@@ -1404,6 +1409,9 @@ enum LucideIcon: string implements ScalableIcon
     case PlayCircle = 'play-circle';
     case PlayOff = 'play-off';
     case PlaySquare = 'play-square';
+    case PlayingCard = 'playing-card';
+    case PlayingCards = 'playing-cards';
+    case PlayingCardsFan = 'playing-cards-fan';
     case Plug = 'plug';
     case Plug2 = 'plug-2';
     case PlugZap = 'plug-zap';
@@ -1485,6 +1493,7 @@ enum LucideIcon: string implements ScalableIcon
     case Ribbon = 'ribbon';
     case Road = 'road';
     case RobotArm = 'robot-arm';
+    case RobotVacuum = 'robot-vacuum';
     case Rocket = 'rocket';
     case RockingChair = 'rocking-chair';
     case RollerCoaster = 'roller-coaster';
