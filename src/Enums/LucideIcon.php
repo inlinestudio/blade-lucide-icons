@@ -1962,6 +1962,7 @@ enum LucideIcon: string implements ScalableIcon
     case Van = 'van';
     case Variable = 'variable';
     case Vault = 'vault';
+    case VectorPolygon = 'vector-polygon';
     case VectorSquare = 'vector-square';
     case Vegan = 'vegan';
     case VenetianMask = 'venetian-mask';
