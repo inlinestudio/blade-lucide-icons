@@ -1133,6 +1133,7 @@ enum LucideIcon: string implements ScalableIcon
     case MailClock = 'mail-clock';
     case MailMinus = 'mail-minus';
     case MailOpen = 'mail-open';
+    case MailPen = 'mail-pen';
     case MailPlus = 'mail-plus';
     case MailQuestion = 'mail-question';
     case MailQuestionMark = 'mail-question-mark';
@@ -2009,6 +2010,7 @@ enum LucideIcon: string implements ScalableIcon
     case WeightTilde = 'weight-tilde';
     case Wheat = 'wheat';
     case WheatOff = 'wheat-off';
+    case Whistle = 'whistle';
     case WholeWord = 'whole-word';
     case Wifi = 'wifi';
     case WifiCog = 'wifi-cog';
