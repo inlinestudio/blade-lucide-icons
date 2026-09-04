@@ -293,6 +293,7 @@ enum LucideIcon: string implements ScalableIcon
     case BrickWall = 'brick-wall';
     case BrickWallFire = 'brick-wall-fire';
     case BrickWallShield = 'brick-wall-shield';
+    case Bridge = 'bridge';
     case Briefcase = 'briefcase';
     case BriefcaseBusiness = 'briefcase-business';
     case BriefcaseConveyorBelt = 'briefcase-conveyor-belt';
@@ -340,6 +341,7 @@ enum LucideIcon: string implements ScalableIcon
     case Calendars = 'calendars';
     case Camera = 'camera';
     case CameraOff = 'camera-off';
+    case Can = 'can';
     case CandlestickChart = 'candlestick-chart';
     case Candy = 'candy';
     case CandyCane = 'candy-cane';
@@ -1076,6 +1078,7 @@ enum LucideIcon: string implements ScalableIcon
     case Ligature = 'ligature';
     case Lightbulb = 'lightbulb';
     case LightbulbOff = 'lightbulb-off';
+    case Lighthouse = 'lighthouse';
     case LineChart = 'line-chart';
     case LineDotRightHorizontal = 'line-dot-right-horizontal';
     case LineSquiggle = 'line-squiggle';
@@ -1607,10 +1610,13 @@ enum LucideIcon: string implements ScalableIcon
     case ShoppingBag = 'shopping-bag';
     case ShoppingBasket = 'shopping-basket';
     case ShoppingCart = 'shopping-cart';
+    case ShoppingCartMinus = 'shopping-cart-minus';
+    case ShoppingCartPlus = 'shopping-cart-plus';
     case Shovel = 'shovel';
     case ShowerHead = 'shower-head';
     case Shredder = 'shredder';
     case Shrimp = 'shrimp';
+    case ShrimpOff = 'shrimp-off';
     case Shrink = 'shrink';
     case Shrub = 'shrub';
     case Shuffle = 'shuffle';
