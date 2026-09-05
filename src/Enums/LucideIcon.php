@@ -342,6 +342,7 @@ enum LucideIcon: string implements ScalableIcon
     case Camera = 'camera';
     case CameraOff = 'camera-off';
     case Can = 'can';
+    case CanSoda = 'can-soda';
     case CandlestickChart = 'candlestick-chart';
     case Candy = 'candy';
     case CandyCane = 'candy-cane';
@@ -595,6 +596,7 @@ enum LucideIcon: string implements ScalableIcon
     case CreditCardCheck = 'credit-card-check';
     case CreditCardMinus = 'credit-card-minus';
     case CreditCardPlus = 'credit-card-plus';
+    case CreditCardReader = 'credit-card-reader';
     case CreditCardX = 'credit-card-x';
     case Croissant = 'croissant';
     case Crop = 'crop';
@@ -650,6 +652,7 @@ enum LucideIcon: string implements ScalableIcon
     case DoorClosed = 'door-closed';
     case DoorClosedLocked = 'door-closed-locked';
     case DoorOpen = 'door-open';
+    case DoorStairwell = 'door-stairwell';
     case Dot = 'dot';
     case DotSquare = 'dot-square';
     case Download = 'download';
@@ -680,6 +683,7 @@ enum LucideIcon: string implements ScalableIcon
     case Ellipse = 'ellipse';
     case Ellipsis = 'ellipsis';
     case EllipsisVertical = 'ellipsis-vertical';
+    case Engine = 'engine';
     case Equal = 'equal';
     case EqualApproximately = 'equal-approximately';
     case EqualNot = 'equal-not';
@@ -886,6 +890,8 @@ enum LucideIcon: string implements ScalableIcon
     case Gavel = 'gavel';
     case Gem = 'gem';
     case GeorgianLari = 'georgian-lari';
+    case Germ = 'germ';
+    case GermOff = 'germ-off';
     case Ghost = 'ghost';
     case Gift = 'gift';
     case GitBranch = 'git-branch';
@@ -1714,6 +1720,7 @@ enum LucideIcon: string implements ScalableIcon
     case SquareDivide = 'square-divide';
     case SquareDot = 'square-dot';
     case SquareEqual = 'square-equal';
+    case SquareExclamationPoint = 'square-exclamation-point';
     case SquareFunction = 'square-function';
     case SquareGanttChart = 'square-gantt-chart';
     case SquareKanban = 'square-kanban';
@@ -1982,6 +1989,8 @@ enum LucideIcon: string implements ScalableIcon
     case VideoOff = 'video-off';
     case Videotape = 'videotape';
     case View = 'view';
+    case Virus = 'virus';
+    case VirusOff = 'virus-off';
     case Voicemail = 'voicemail';
     case Volleyball = 'volleyball';
     case Volume = 'volume';
