@@ -450,6 +450,7 @@ enum LucideIcon: string implements ScalableIcon
     case CircleChevronRight = 'circle-chevron-right';
     case CircleChevronUp = 'circle-chevron-up';
     case CircleDashed = 'circle-dashed';
+    case CircleDashedCheck = 'circle-dashed-check';
     case CircleDivide = 'circle-divide';
     case CircleDollarSign = 'circle-dollar-sign';
     case CircleDot = 'circle-dot';
@@ -648,6 +649,7 @@ enum LucideIcon: string implements ScalableIcon
     case Dock = 'dock';
     case Dog = 'dog';
     case DollarSign = 'dollar-sign';
+    case Dome = 'dome';
     case Donut = 'donut';
     case DoorClosed = 'door-closed';
     case DoorClosedLocked = 'door-closed-locked';
@@ -686,6 +688,7 @@ enum LucideIcon: string implements ScalableIcon
     case Engine = 'engine';
     case Equal = 'equal';
     case EqualApproximately = 'equal-approximately';
+    case EqualApproximatelyNot = 'equal-approximately-not';
     case EqualNot = 'equal-not';
     case EqualSquare = 'equal-square';
     case Eraser = 'eraser';
@@ -885,6 +888,8 @@ enum LucideIcon: string implements ScalableIcon
     case GamepadDirectional = 'gamepad-directional';
     case GanttChart = 'gantt-chart';
     case GanttChartSquare = 'gantt-chart-square';
+    case GapHorizontal = 'gap-horizontal';
+    case GapVertical = 'gap-vertical';
     case Gauge = 'gauge';
     case GaugeCircle = 'gauge-circle';
     case Gavel = 'gavel';
@@ -1890,6 +1895,7 @@ enum LucideIcon: string implements ScalableIcon
     case Transgender = 'transgender';
     case Trash = 'trash';
     case Trash2 = 'trash-2';
+    case TrashOff = 'trash-off';
     case TreeDeciduous = 'tree-deciduous';
     case TreePalm = 'tree-palm';
     case TreePine = 'tree-pine';
@@ -1943,6 +1949,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserCircle2 = 'user-circle-2';
     case UserCog = 'user-cog';
     case UserCog2 = 'user-cog-2';
+    case UserGroup = 'user-group';
     case UserKey = 'user-key';
     case UserLock = 'user-lock';
     case UserMinus = 'user-minus';
@@ -1954,6 +1961,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserRoundArrowLeft = 'user-round-arrow-left';
     case UserRoundCheck = 'user-round-check';
     case UserRoundCog = 'user-round-cog';
+    case UserRoundGroup = 'user-round-group';
     case UserRoundKey = 'user-round-key';
     case UserRoundMinus = 'user-round-minus';
     case UserRoundPen = 'user-round-pen';
