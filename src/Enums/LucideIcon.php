@@ -358,6 +358,8 @@ enum LucideIcon: string implements ScalableIcon
     case Caravan = 'caravan';
     case CardSim = 'card-sim';
     case Carrot = 'carrot';
+    case Carton = 'carton';
+    case CartonOff = 'carton-off';
     case CaseLower = 'case-lower';
     case CaseSensitive = 'case-sensitive';
     case CaseUpper = 'case-upper';
@@ -1859,6 +1861,7 @@ enum LucideIcon: string implements ScalableIcon
     case ThermometerSun = 'thermometer-sun';
     case ThumbsDown = 'thumbs-down';
     case ThumbsUp = 'thumbs-up';
+    case TicTacToe = 'tic-tac-toe';
     case Ticket = 'ticket';
     case TicketCheck = 'ticket-check';
     case TicketMinus = 'ticket-minus';
