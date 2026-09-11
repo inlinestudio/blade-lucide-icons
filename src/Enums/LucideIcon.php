@@ -1880,6 +1880,8 @@ enum LucideIcon: string implements ScalableIcon
     case Toilet = 'toilet';
     case ToolCase = 'tool-case';
     case Toolbox = 'toolbox';
+    case Toothbrush = 'toothbrush';
+    case ToothbrushSparkles = 'toothbrush-sparkles';
     case Tornado = 'tornado';
     case Torus = 'torus';
     case Touchpad = 'touchpad';
@@ -1911,6 +1913,8 @@ enum LucideIcon: string implements ScalableIcon
     case TriangleAlert = 'triangle-alert';
     case TriangleDashed = 'triangle-dashed';
     case TriangleRight = 'triangle-right';
+    case TrianglesCenterlineDashedHorizontal = 'triangles-centerline-dashed-horizontal';
+    case TrianglesCenterlineDashedVertical = 'triangles-centerline-dashed-vertical';
     case Trophy = 'trophy';
     case Truck = 'truck';
     case TruckElectric = 'truck-electric';
