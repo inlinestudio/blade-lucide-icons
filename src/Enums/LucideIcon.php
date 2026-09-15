@@ -493,6 +493,9 @@ enum LucideIcon: string implements ScalableIcon
     case CircuitBoard = 'circuit-board';
     case Citrus = 'citrus';
     case Clapperboard = 'clapperboard';
+    case ClefAlto = 'clef-alto';
+    case ClefBass = 'clef-bass';
+    case ClefTreble = 'clef-treble';
     case Clipboard = 'clipboard';
     case ClipboardCheck = 'clipboard-check';
     case ClipboardClock = 'clipboard-clock';
@@ -1260,6 +1263,7 @@ enum LucideIcon: string implements ScalableIcon
     case MonitorDown = 'monitor-down';
     case MonitorOff = 'monitor-off';
     case MonitorPause = 'monitor-pause';
+    case MonitorPc = 'monitor-pc';
     case MonitorPlay = 'monitor-play';
     case MonitorSmartphone = 'monitor-smartphone';
     case MonitorSpeaker = 'monitor-speaker';
