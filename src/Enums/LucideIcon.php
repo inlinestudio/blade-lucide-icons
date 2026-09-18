@@ -615,6 +615,7 @@ enum LucideIcon: string implements ScalableIcon
     case Crown = 'crown';
     case Cuboid = 'cuboid';
     case CupSoda = 'cup-soda';
+    case Cupcake = 'cupcake';
     case CurlyBraces = 'curly-braces';
     case Currency = 'currency';
     case Cylinder = 'cylinder';
@@ -662,6 +663,7 @@ enum LucideIcon: string implements ScalableIcon
     case Donut = 'donut';
     case DoorClosed = 'door-closed';
     case DoorClosedLocked = 'door-closed-locked';
+    case DoorClosedPackage = 'door-closed-package';
     case DoorOpen = 'door-open';
     case DoorStairwell = 'door-stairwell';
     case Dot = 'dot';
@@ -721,6 +723,7 @@ enum LucideIcon: string implements ScalableIcon
     case Factory = 'factory';
     case Fan = 'fan';
     case FastForward = 'fast-forward';
+    case Faucet = 'faucet';
     case Feather = 'feather';
     case Fence = 'fence';
     case FerrisWheel = 'ferris-wheel';
@@ -1056,6 +1059,7 @@ enum LucideIcon: string implements ScalableIcon
     case Keyboard = 'keyboard';
     case KeyboardMusic = 'keyboard-music';
     case KeyboardOff = 'keyboard-off';
+    case Lambda = 'lambda';
     case Lamp = 'lamp';
     case LampCeiling = 'lamp-ceiling';
     case LampDesk = 'lamp-desk';
@@ -1315,6 +1319,7 @@ enum LucideIcon: string implements ScalableIcon
     case Navigation2 = 'navigation-2';
     case Navigation2Off = 'navigation-2-off';
     case NavigationOff = 'navigation-off';
+    case NepaliRupee = 'nepali-rupee';
     case Network = 'network';
     case Newspaper = 'newspaper';
     case Nfc = 'nfc';
@@ -1541,6 +1546,7 @@ enum LucideIcon: string implements ScalableIcon
     case RotateCcwKey = 'rotate-ccw-key';
     case RotateCcwSquare = 'rotate-ccw-square';
     case RotateCw = 'rotate-cw';
+    case RotateCwClock = 'rotate-cw-clock';
     case RotateCwFadingClock = 'rotate-cw-fading-clock';
     case RotateCwSquare = 'rotate-cw-square';
     case Route = 'route';
@@ -1742,8 +1748,11 @@ enum LucideIcon: string implements ScalableIcon
     case SquareDashedBottomCode = 'square-dashed-bottom-code';
     case SquareDashedKanban = 'square-dashed-kanban';
     case SquareDashedMousePointer = 'square-dashed-mouse-pointer';
+    case SquareDashedPlus = 'square-dashed-plus';
     case SquareDashedText = 'square-dashed-text';
     case SquareDashedTopSolid = 'square-dashed-top-solid';
+    case SquareDashedX = 'square-dashed-x';
+    case SquareDashedXCorner = 'square-dashed-x-corner';
     case SquareDimensions = 'square-dimensions';
     case SquareDivide = 'square-divide';
     case SquareDot = 'square-dot';
@@ -1939,6 +1948,7 @@ enum LucideIcon: string implements ScalableIcon
     case Trophy = 'trophy';
     case Truck = 'truck';
     case TruckElectric = 'truck-electric';
+    case TubeLotion = 'tube-lotion';
     case TurkishLira = 'turkish-lira';
     case Turntable = 'turntable';
     case Turtle = 'turtle';
