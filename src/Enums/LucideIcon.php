@@ -299,6 +299,7 @@ enum LucideIcon: string implements ScalableIcon
     case BriefcaseBusiness = 'briefcase-business';
     case BriefcaseConveyorBelt = 'briefcase-conveyor-belt';
     case BriefcaseMedical = 'briefcase-medical';
+    case BriefcasePlus = 'briefcase-plus';
     case BringToFront = 'bring-to-front';
     case Broccoli = 'broccoli';
     case Broom = 'broom';
@@ -1012,6 +1013,7 @@ enum LucideIcon: string implements ScalableIcon
     case Hourglass = 'hourglass';
     case HourglassCog = 'hourglass-cog';
     case House = 'house';
+    case HouseCog = 'house-cog';
     case HouseHeart = 'house-heart';
     case HousePlug = 'house-plug';
     case HousePlus = 'house-plus';
@@ -1110,7 +1112,10 @@ enum LucideIcon: string implements ScalableIcon
     case LightbulbOff = 'lightbulb-off';
     case Lighthouse = 'lighthouse';
     case LineChart = 'line-chart';
+    case LineDotBottomVertical = 'line-dot-bottom-vertical';
+    case LineDotLeftHorizontal = 'line-dot-left-horizontal';
     case LineDotRightHorizontal = 'line-dot-right-horizontal';
+    case LineDotTopVertical = 'line-dot-top-vertical';
     case LineSquiggle = 'line-squiggle';
     case LineStyle = 'line-style';
     case Link = 'link';
@@ -1782,6 +1787,7 @@ enum LucideIcon: string implements ScalableIcon
     case SquareScissors = 'square-scissors';
     case SquareSigma = 'square-sigma';
     case SquareSlash = 'square-slash';
+    case SquareSparkles = 'square-sparkles';
     case SquareSplitHorizontal = 'square-split-horizontal';
     case SquareSplitVertical = 'square-split-vertical';
     case SquareSquare = 'square-square';
