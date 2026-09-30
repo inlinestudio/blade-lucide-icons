@@ -175,6 +175,7 @@ enum LucideIcon: string implements ScalableIcon
     case Ban = 'ban';
     case Banana = 'banana';
     case Bandage = 'bandage';
+    case BangladeshiTaka = 'bangladeshi-taka';
     case Banknote = 'banknote';
     case BanknoteArrowDown = 'banknote-arrow-down';
     case BanknoteArrowUp = 'banknote-arrow-up';
@@ -1103,6 +1104,7 @@ enum LucideIcon: string implements ScalableIcon
     case LensConcave = 'lens-concave';
     case LensConvex = 'lens-convex';
     case LetterText = 'letter-text';
+    case Letters = 'letters';
     case Library = 'library';
     case LibraryBig = 'library-big';
     case LibrarySquare = 'library-square';
@@ -1481,6 +1483,7 @@ enum LucideIcon: string implements ScalableIcon
     case PowerSquare = 'power-square';
     case Presentation = 'presentation';
     case Printer = 'printer';
+    case Printer3d = 'printer-3d';
     case PrinterCheck = 'printer-check';
     case PrinterX = 'printer-x';
     case Projector = 'projector';
