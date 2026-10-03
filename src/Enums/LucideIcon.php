@@ -1094,6 +1094,7 @@ enum LucideIcon: string implements ScalableIcon
     case LayoutDashboard = 'layout-dashboard';
     case LayoutFreeform = 'layout-freeform';
     case LayoutGrid = 'layout-grid';
+    case LayoutGridCircles = 'layout-grid-circles';
     case LayoutList = 'layout-list';
     case LayoutPanelLeft = 'layout-panel-left';
     case LayoutPanelTop = 'layout-panel-top';
