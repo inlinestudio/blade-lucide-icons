@@ -74,6 +74,7 @@ enum LucideIcon: string implements ScalableIcon
     case ArchiveX = 'archive-x';
     case AreaChart = 'area-chart';
     case Armchair = 'armchair';
+    case ArmenianDram = 'armenian-dram';
     case ArrowBigDown = 'arrow-big-down';
     case ArrowBigDownDash = 'arrow-big-down-dash';
     case ArrowBigLeft = 'arrow-big-left';
@@ -664,6 +665,7 @@ enum LucideIcon: string implements ScalableIcon
     case Dome = 'dome';
     case Donut = 'donut';
     case DoorClosed = 'door-closed';
+    case DoorClosedCog = 'door-closed-cog';
     case DoorClosedLocked = 'door-closed-locked';
     case DoorClosedPackage = 'door-closed-package';
     case DoorOpen = 'door-open';
@@ -1056,6 +1058,7 @@ enum LucideIcon: string implements ScalableIcon
     case KanbanSquare = 'kanban-square';
     case KanbanSquareDashed = 'kanban-square-dashed';
     case Kayak = 'kayak';
+    case KazakhTenge = 'kazakh-tenge';
     case Key = 'key';
     case KeyRound = 'key-round';
     case KeySquare = 'key-square';
@@ -1566,6 +1569,7 @@ enum LucideIcon: string implements ScalableIcon
     case Rows3 = 'rows-3';
     case Rows4 = 'rows-4';
     case Rss = 'rss';
+    case RugbyBall = 'rugby-ball';
     case Ruler = 'ruler';
     case RulerDimensionLine = 'ruler-dimension-line';
     case RussianRuble = 'russian-ruble';
@@ -1887,6 +1891,9 @@ enum LucideIcon: string implements ScalableIcon
     case TextAlignCenter = 'text-align-center';
     case TextAlignEnd = 'text-align-end';
     case TextAlignJustify = 'text-align-justify';
+    case TextAlignJustifyCenter = 'text-align-justify-center';
+    case TextAlignJustifyEnd = 'text-align-justify-end';
+    case TextAlignJustifyStart = 'text-align-justify-start';
     case TextAlignStart = 'text-align-start';
     case TextCursor = 'text-cursor';
     case TextCursorInput = 'text-cursor-input';
@@ -2093,6 +2100,7 @@ enum LucideIcon: string implements ScalableIcon
     case WifiZero = 'wifi-zero';
     case Wind = 'wind';
     case WindArrowDown = 'wind-arrow-down';
+    case WindArrowUp = 'wind-arrow-up';
     case Wine = 'wine';
     case WineOff = 'wine-off';
     case Workflow = 'workflow';
