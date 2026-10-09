@@ -959,6 +959,7 @@ enum LucideIcon: string implements ScalableIcon
     case Grip = 'grip';
     case GripHorizontal = 'grip-horizontal';
     case GripVertical = 'grip-vertical';
+    case Groceries = 'groceries';
     case Group = 'group';
     case Guitar = 'guitar';
     case Ham = 'ham';
@@ -1007,6 +1008,7 @@ enum LucideIcon: string implements ScalableIcon
     case HelpingHand = 'helping-hand';
     case Hexagon = 'hexagon';
     case Highlighter = 'highlighter';
+    case HikingStick = 'hiking-stick';
     case History = 'history';
     case Home = 'home';
     case Hop = 'hop';
@@ -1607,6 +1609,7 @@ enum LucideIcon: string implements ScalableIcon
     case ScissorsSquare = 'scissors-square';
     case ScissorsSquareDashedBottom = 'scissors-square-dashed-bottom';
     case Scooter = 'scooter';
+    case ScratchBlocks = 'scratch-blocks';
     case ScreenShare = 'screen-share';
     case ScreenShareOff = 'screen-share-off';
     case Scroll = 'scroll';
