@@ -1107,6 +1107,7 @@ enum LucideIcon: string implements ScalableIcon
     case Leaf = 'leaf';
     case LeafyGreen = 'leafy-green';
     case Lectern = 'lectern';
+    case Lens = 'lens';
     case LensConcave = 'lens-concave';
     case LensConvex = 'lens-convex';
     case LetterText = 'letter-text';
