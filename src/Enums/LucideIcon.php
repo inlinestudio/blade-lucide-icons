@@ -974,6 +974,7 @@ enum LucideIcon: string implements ScalableIcon
     case HandMetal = 'hand-metal';
     case HandPlatter = 'hand-platter';
     case Handbag = 'handbag';
+    case HandleBottomRight = 'handle-bottom-right';
     case Handshake = 'handshake';
     case HardDrive = 'hard-drive';
     case HardDriveDownload = 'hard-drive-download';
@@ -1178,6 +1179,7 @@ enum LucideIcon: string implements ScalableIcon
     case MailBadge = 'mail-badge';
     case MailCheck = 'mail-check';
     case MailClock = 'mail-clock';
+    case MailDot = 'mail-dot';
     case MailMinus = 'mail-minus';
     case MailOpen = 'mail-open';
     case MailPen = 'mail-pen';
@@ -1436,6 +1438,7 @@ enum LucideIcon: string implements ScalableIcon
     case PhoneCall = 'phone-call';
     case PhoneForwarded = 'phone-forwarded';
     case PhoneIncoming = 'phone-incoming';
+    case PhoneLog = 'phone-log';
     case PhoneMissed = 'phone-missed';
     case PhoneOff = 'phone-off';
     case PhoneOutgoing = 'phone-outgoing';
@@ -1613,6 +1616,7 @@ enum LucideIcon: string implements ScalableIcon
     case ScratchBlocks = 'scratch-blocks';
     case ScreenShare = 'screen-share';
     case ScreenShareOff = 'screen-share-off';
+    case Screw = 'screw';
     case Scroll = 'scroll';
     case ScrollText = 'scroll-text';
     case Search = 'search';
@@ -1650,6 +1654,7 @@ enum LucideIcon: string implements ScalableIcon
     case ShieldCogCorner = 'shield-cog-corner';
     case ShieldEllipsis = 'shield-ellipsis';
     case ShieldHalf = 'shield-half';
+    case ShieldHouse = 'shield-house';
     case ShieldKeyhole = 'shield-keyhole';
     case ShieldLock = 'shield-lock';
     case ShieldMinus = 'shield-minus';
@@ -2026,6 +2031,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserRoundPen = 'user-round-pen';
     case UserRoundPlus = 'user-round-plus';
     case UserRoundSearch = 'user-round-search';
+    case UserRoundStar = 'user-round-star';
     case UserRoundX = 'user-round-x';
     case UserSearch = 'user-search';
     case UserShield = 'user-shield';
@@ -2097,6 +2103,7 @@ enum LucideIcon: string implements ScalableIcon
     case Wifi = 'wifi';
     case WifiCog = 'wifi-cog';
     case WifiHigh = 'wifi-high';
+    case WifiLock = 'wifi-lock';
     case WifiLow = 'wifi-low';
     case WifiOff = 'wifi-off';
     case WifiPen = 'wifi-pen';
