@@ -1233,6 +1233,7 @@ enum LucideIcon: string implements ScalableIcon
     case MessageCircleQuestion = 'message-circle-question';
     case MessageCircleQuestionMark = 'message-circle-question-mark';
     case MessageCircleReply = 'message-circle-reply';
+    case MessageCircleText = 'message-circle-text';
     case MessageCircleWarning = 'message-circle-warning';
     case MessageCircleX = 'message-circle-x';
     case MessageSquare = 'message-square';
@@ -1635,6 +1636,7 @@ enum LucideIcon: string implements ScalableIcon
     case Server = 'server';
     case ServerCog = 'server-cog';
     case ServerCrash = 'server-crash';
+    case ServerNas = 'server-nas';
     case ServerOff = 'server-off';
     case ServerPlus = 'server-plus';
     case Settings = 'settings';
