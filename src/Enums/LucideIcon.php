@@ -210,6 +210,7 @@ enum LucideIcon: string implements ScalableIcon
     case BeefOff = 'beef-off';
     case Beer = 'beer';
     case BeerOff = 'beer-off';
+    case BelarusianRuble = 'belarusian-ruble';
     case Bell = 'bell';
     case BellCheck = 'bell-check';
     case BellDot = 'bell-dot';
@@ -329,6 +330,7 @@ enum LucideIcon: string implements ScalableIcon
     case CalendarArrowUp = 'calendar-arrow-up';
     case CalendarCheck = 'calendar-check';
     case CalendarCheck2 = 'calendar-check-2';
+    case CalendarChevronsLeft = 'calendar-chevrons-left';
     case CalendarChevronsRight = 'calendar-chevrons-right';
     case CalendarClock = 'calendar-clock';
     case CalendarCog = 'calendar-cog';
@@ -469,6 +471,7 @@ enum LucideIcon: string implements ScalableIcon
     case CircleEuro = 'circle-euro';
     case CircleEuroSign = 'circle-euro-sign';
     case CircleFadingArrowUp = 'circle-fading-arrow-up';
+    case CircleFadingPlay = 'circle-fading-play';
     case CircleFadingPlus = 'circle-fading-plus';
     case CircleGauge = 'circle-gauge';
     case CircleHelp = 'circle-help';
@@ -604,6 +607,7 @@ enum LucideIcon: string implements ScalableIcon
     case CornerUpLeft = 'corner-up-left';
     case CornerUpRight = 'corner-up-right';
     case Cpu = 'cpu';
+    case CpuAi = 'cpu-ai';
     case CreativeCommons = 'creative-commons';
     case CreditCard = 'credit-card';
     case CreditCardCheck = 'credit-card-check';
@@ -877,6 +881,8 @@ enum LucideIcon: string implements ScalableIcon
     case FolderSync = 'folder-sync';
     case FolderTree = 'folder-tree';
     case FolderUp = 'folder-up';
+    case FolderUser = 'folder-user';
+    case FolderUsers = 'folder-users';
     case FolderX = 'folder-x';
     case Folders = 'folders';
     case Footprints = 'footprints';
@@ -949,6 +955,7 @@ enum LucideIcon: string implements ScalableIcon
     case Grab = 'grab';
     case GraduationCap = 'graduation-cap';
     case Grape = 'grape';
+    case GraphStar = 'graph-star';
     case Grid = 'grid';
     case Grid2x2 = 'grid-2x2';
     case Grid2x2Check = 'grid-2x2-check';
@@ -962,6 +969,7 @@ enum LucideIcon: string implements ScalableIcon
     case Groceries = 'groceries';
     case Group = 'group';
     case Guitar = 'guitar';
+    case GuitarElectric = 'guitar-electric';
     case Ham = 'ham';
     case Hamburger = 'hamburger';
     case Hammer = 'hammer';
@@ -1432,6 +1440,7 @@ enum LucideIcon: string implements ScalableIcon
     case PercentCircle = 'percent-circle';
     case PercentDiamond = 'percent-diamond';
     case PercentSquare = 'percent-square';
+    case PerfumeBottle = 'perfume-bottle';
     case PersonStanding = 'person-standing';
     case Phi = 'phi';
     case PhilippinePeso = 'philippine-peso';
@@ -2044,7 +2053,9 @@ enum LucideIcon: string implements ScalableIcon
     case UserX2 = 'user-x-2';
     case Users = 'users';
     case Users2 = 'users-2';
+    case UsersCollaboration = 'users-collaboration';
     case UsersRound = 'users-round';
+    case UsersRoundCollaboration = 'users-round-collaboration';
     case Utensils = 'utensils';
     case UtensilsCrossed = 'utensils-crossed';
     case UtilityPole = 'utility-pole';
