@@ -378,6 +378,7 @@ enum LucideIcon: string implements ScalableIcon
     case Cat = 'cat';
     case Cctv = 'cctv';
     case CctvOff = 'cctv-off';
+    case Certificate = 'certificate';
     case ChartArea = 'chart-area';
     case ChartBar = 'chart-bar';
     case ChartBarBig = 'chart-bar-big';
@@ -700,6 +701,8 @@ enum LucideIcon: string implements ScalableIcon
     case Egg = 'egg';
     case EggFried = 'egg-fried';
     case EggOff = 'egg-off';
+    case EighthNote = 'eighth-note';
+    case EighthNotes = 'eighth-notes';
     case Eject = 'eject';
     case Ellipse = 'ellipse';
     case Ellipsis = 'ellipsis';
@@ -970,6 +973,7 @@ enum LucideIcon: string implements ScalableIcon
     case Group = 'group';
     case Guitar = 'guitar';
     case GuitarElectric = 'guitar-electric';
+    case HalfNote = 'half-note';
     case Ham = 'ham';
     case Hamburger = 'hamburger';
     case Hammer = 'hammer';
@@ -1706,6 +1710,7 @@ enum LucideIcon: string implements ScalableIcon
     case Signpost = 'signpost';
     case SignpostBig = 'signpost-big';
     case Siren = 'siren';
+    case SixteenthNotes = 'sixteenth-notes';
     case SkipBack = 'skip-back';
     case SkipForward = 'skip-forward';
     case Skull = 'skull';
