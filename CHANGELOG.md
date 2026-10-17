@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.41.0](https://github.com/inlinestudio/blade-lucide-icons/compare/v1.40.0...v1.41.0) (2026-10-17)
+
+
+### Features
+
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.50.0 ([4654011](https://github.com/inlinestudio/blade-lucide-icons/commit/46540113b3dd65bef96a9e4eab8431836346218d))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.51.0 ([8f99ee8](https://github.com/inlinestudio/blade-lucide-icons/commit/8f99ee872acad0871aa00fd5938a7dfbe1ac341b))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.52.0 ([1ad696e](https://github.com/inlinestudio/blade-lucide-icons/commit/1ad696e3b93af6a1c77d7a4bff004de9c1c21a6a))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.53.0 ([38cca5e](https://github.com/inlinestudio/blade-lucide-icons/commit/38cca5e0a5d8b2e00a7ee5dd5c2816cbf9dd4e0e))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.54.0 ([5779fa5](https://github.com/inlinestudio/blade-lucide-icons/commit/5779fa547af928cad7a39c394a498f3552b868a3))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.55.0 ([a80fee4](https://github.com/inlinestudio/blade-lucide-icons/commit/a80fee47dae9956057278304710e97e509383b37))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.56.0 ([ba27470](https://github.com/inlinestudio/blade-lucide-icons/commit/ba27470eadac92c5b2d12019a25acec47c6adef8))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.57.0 ([f0d4d36](https://github.com/inlinestudio/blade-lucide-icons/commit/f0d4d367b1c546819fa6d4e87eb98c83d2f079b1))
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/1.58.0 ([c42ac2b](https://github.com/inlinestudio/blade-lucide-icons/commit/c42ac2b2a7374aedf54b70a99887f9e22c5dbc10))
+
 ## [1.40.0](https://github.com/inlinestudio/blade-lucide-icons/compare/v1.39.0...v1.40.0) (2026-09-30)
 
 
