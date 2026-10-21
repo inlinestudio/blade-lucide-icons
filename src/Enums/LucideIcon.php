@@ -147,11 +147,13 @@ enum LucideIcon: string implements ScalableIcon
     case AudioLinesOff = 'audio-lines-off';
     case AudioLinesX = 'audio-lines-x';
     case AudioWaveform = 'audio-waveform';
+    case Avocado = 'avocado';
     case Award = 'award';
     case Axe = 'axe';
     case Axis3d = 'axis-3d';
     case Baby = 'baby';
     case Backpack = 'backpack';
+    case Bacon = 'bacon';
     case Badge = 'badge';
     case BadgeAlert = 'badge-alert';
     case BadgeCent = 'badge-cent';
@@ -294,6 +296,7 @@ enum LucideIcon: string implements ScalableIcon
     case Brain = 'brain';
     case BrainCircuit = 'brain-circuit';
     case BrainCog = 'brain-cog';
+    case BrainOff = 'brain-off';
     case BrickWall = 'brick-wall';
     case BrickWallFire = 'brick-wall-fire';
     case BrickWallShield = 'brick-wall-shield';
@@ -958,6 +961,7 @@ enum LucideIcon: string implements ScalableIcon
     case Grab = 'grab';
     case GraduationCap = 'graduation-cap';
     case Grape = 'grape';
+    case GraphHub = 'graph-hub';
     case GraphStar = 'graph-star';
     case Grid = 'grid';
     case Grid2x2 = 'grid-2x2';
@@ -1123,6 +1127,7 @@ enum LucideIcon: string implements ScalableIcon
     case Lens = 'lens';
     case LensConcave = 'lens-concave';
     case LensConvex = 'lens-convex';
+    case LetterSpacing = 'letter-spacing';
     case LetterText = 'letter-text';
     case Letters = 'letters';
     case Library = 'library';
@@ -1138,6 +1143,7 @@ enum LucideIcon: string implements ScalableIcon
     case LineDotLeftHorizontal = 'line-dot-left-horizontal';
     case LineDotRightHorizontal = 'line-dot-right-horizontal';
     case LineDotTopVertical = 'line-dot-top-vertical';
+    case LineHeight = 'line-height';
     case LineSquiggle = 'line-squiggle';
     case LineStyle = 'line-style';
     case Link = 'link';
@@ -1724,6 +1730,7 @@ enum LucideIcon: string implements ScalableIcon
     case Smartphone = 'smartphone';
     case SmartphoneCharging = 'smartphone-charging';
     case SmartphoneNfc = 'smartphone-nfc';
+    case SmartphoneUserRound = 'smartphone-user-round';
     case Smile = 'smile';
     case SmilePlus = 'smile-plus';
     case Snail = 'snail';
@@ -1950,6 +1957,7 @@ enum LucideIcon: string implements ScalableIcon
     case ToggleLeft = 'toggle-left';
     case ToggleRight = 'toggle-right';
     case Toilet = 'toilet';
+    case Tombstone = 'tombstone';
     case ToolCase = 'tool-case';
     case Toolbox = 'toolbox';
     case Toothbrush = 'toothbrush';
