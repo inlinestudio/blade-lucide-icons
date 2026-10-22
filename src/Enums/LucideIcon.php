@@ -464,6 +464,10 @@ enum LucideIcon: string implements ScalableIcon
     case CircleChevronLeft = 'circle-chevron-left';
     case CircleChevronRight = 'circle-chevron-right';
     case CircleChevronUp = 'circle-chevron-up';
+    case CircleChevronsDown = 'circle-chevrons-down';
+    case CircleChevronsLeft = 'circle-chevrons-left';
+    case CircleChevronsRight = 'circle-chevrons-right';
+    case CircleChevronsUp = 'circle-chevrons-up';
     case CircleDashed = 'circle-dashed';
     case CircleDashedCheck = 'circle-dashed-check';
     case CircleDivide = 'circle-divide';
