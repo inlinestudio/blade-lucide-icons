@@ -151,6 +151,7 @@ enum LucideIcon: string implements ScalableIcon
     case Award = 'award';
     case Axe = 'axe';
     case Axis3d = 'axis-3d';
+    case AzerbaijaniManat = 'azerbaijani-manat';
     case Baby = 'baby';
     case Backpack = 'backpack';
     case Bacon = 'bacon';
@@ -174,6 +175,7 @@ enum LucideIcon: string implements ScalableIcon
     case BadgeTurkishLira = 'badge-turkish-lira';
     case BadgeX = 'badge-x';
     case BaggageClaim = 'baggage-claim';
+    case BallWave = 'ball-wave';
     case Balloon = 'balloon';
     case Ban = 'ban';
     case Banana = 'banana';
@@ -714,6 +716,7 @@ enum LucideIcon: string implements ScalableIcon
     case Ellipse = 'ellipse';
     case Ellipsis = 'ellipsis';
     case EllipsisVertical = 'ellipsis-vertical';
+    case EmiratiDirham = 'emirati-dirham';
     case Engine = 'engine';
     case Equal = 'equal';
     case EqualApproximately = 'equal-approximately';
@@ -1031,10 +1034,12 @@ enum LucideIcon: string implements ScalableIcon
     case Highlighter = 'highlighter';
     case HikingStick = 'hiking-stick';
     case History = 'history';
+    case HockeyStick = 'hockey-stick';
     case Home = 'home';
     case Hop = 'hop';
     case HopOff = 'hop-off';
     case Hospital = 'hospital';
+    case HotAirBalloon = 'hot-air-balloon';
     case Hotel = 'hotel';
     case Hourglass = 'hourglass';
     case HourglassCog = 'hourglass-cog';
