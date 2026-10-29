@@ -70,6 +70,8 @@ enum LucideIcon: string implements ScalableIcon
     case AppWindowMac = 'app-window-mac';
     case Apple = 'apple';
     case Archive = 'archive';
+    case ArchiveArrowDown = 'archive-arrow-down';
+    case ArchiveArrowUp = 'archive-arrow-up';
     case ArchiveRestore = 'archive-restore';
     case ArchiveX = 'archive-x';
     case AreaChart = 'area-chart';
@@ -293,6 +295,7 @@ enum LucideIcon: string implements ScalableIcon
     case Box = 'box';
     case BoxSelect = 'box-select';
     case Boxes = 'boxes';
+    case BoxesLinked = 'boxes-linked';
     case Braces = 'braces';
     case Brackets = 'brackets';
     case Brain = 'brain';
@@ -332,6 +335,8 @@ enum LucideIcon: string implements ScalableIcon
     case Calendar = 'calendar';
     case Calendar1 = 'calendar-1';
     case CalendarArrowDown = 'calendar-arrow-down';
+    case CalendarArrowLeft = 'calendar-arrow-left';
+    case CalendarArrowRight = 'calendar-arrow-right';
     case CalendarArrowUp = 'calendar-arrow-up';
     case CalendarCheck = 'calendar-check';
     case CalendarCheck2 = 'calendar-check-2';
@@ -405,6 +410,8 @@ enum LucideIcon: string implements ScalableIcon
     case ChartNoAxesCombined = 'chart-no-axes-combined';
     case ChartNoAxesGantt = 'chart-no-axes-gantt';
     case ChartPie = 'chart-pie';
+    case ChartQuadrant = 'chart-quadrant';
+    case ChartRadar = 'chart-radar';
     case ChartScatter = 'chart-scatter';
     case ChartSpline = 'chart-spline';
     case Check = 'check';
@@ -642,6 +649,7 @@ enum LucideIcon: string implements ScalableIcon
     case DatabaseArrowUp = 'database-arrow-up';
     case DatabaseBackup = 'database-backup';
     case DatabaseCheck = 'database-check';
+    case DatabaseCog = 'database-cog';
     case DatabaseMinus = 'database-minus';
     case DatabasePlus = 'database-plus';
     case DatabaseSearch = 'database-search';
@@ -701,6 +709,8 @@ enum LucideIcon: string implements ScalableIcon
     case Dumbbell = 'dumbbell';
     case Ear = 'ear';
     case EarOff = 'ear-off';
+    case Earbuds = 'earbuds';
+    case EarbudsOff = 'earbuds-off';
     case Earth = 'earth';
     case EarthLock = 'earth-lock';
     case Eclipse = 'eclipse';
@@ -1107,6 +1117,7 @@ enum LucideIcon: string implements ScalableIcon
     case Laptop2 = 'laptop-2';
     case LaptopMinimal = 'laptop-minimal';
     case LaptopMinimalCheck = 'laptop-minimal-check';
+    case Laser = 'laser';
     case Lasso = 'lasso';
     case LassoSelect = 'lasso-select';
     case Laugh = 'laugh';
@@ -1725,6 +1736,7 @@ enum LucideIcon: string implements ScalableIcon
     case Signpost = 'signpost';
     case SignpostBig = 'signpost-big';
     case Siren = 'siren';
+    case SirenOff = 'siren-off';
     case SixteenthNotes = 'sixteenth-notes';
     case SkipBack = 'skip-back';
     case SkipForward = 'skip-forward';
@@ -1796,6 +1808,10 @@ enum LucideIcon: string implements ScalableIcon
     case SquareChevronLeft = 'square-chevron-left';
     case SquareChevronRight = 'square-chevron-right';
     case SquareChevronUp = 'square-chevron-up';
+    case SquareChevronsDown = 'square-chevrons-down';
+    case SquareChevronsLeft = 'square-chevrons-left';
+    case SquareChevronsRight = 'square-chevrons-right';
+    case SquareChevronsUp = 'square-chevrons-up';
     case SquareCode = 'square-code';
     case SquareDashed = 'square-dashed';
     case SquareDashedBottom = 'square-dashed-bottom';
@@ -2064,6 +2080,7 @@ enum LucideIcon: string implements ScalableIcon
     case UserRoundPen = 'user-round-pen';
     case UserRoundPlus = 'user-round-plus';
     case UserRoundSearch = 'user-round-search';
+    case UserRoundShield = 'user-round-shield';
     case UserRoundStar = 'user-round-star';
     case UserRoundX = 'user-round-x';
     case UserSearch = 'user-search';
